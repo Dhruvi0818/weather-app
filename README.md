@@ -33,13 +33,8 @@ Skyline Weather App allows users to check live weather information for any city 
 
 ### 🌙 Home Screen
 
-> Replace the image below with your uploaded screenshot.
+<img width="1902" height="911" alt="Screenshot 2026-07-24 231441" src="https://github.com/user-attachments/assets/cb65099d-d077-4a32-945f-d7149986627e" />
 
-```markdown
-![Skyline Weather App](screenshots/home.png)
-```
-
----
 
 ## 🛠️ Technologies Used
 
