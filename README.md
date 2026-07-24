@@ -140,6 +140,8 @@ If you found this project helpful or interesting, please consider giving it a â­
 
 It motivates me to build more awesome projects!
 
+Last Updated: July 2026
+
 ---
 
 ## ðŸ“„ License
