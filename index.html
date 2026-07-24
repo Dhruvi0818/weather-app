@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skyline — Weather</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+
+    <div id="sky"></div>
+    <div id="flash"></div>
+
+    <div class="wrap">
+        <div class="topbar">
+            <div class="search-box">
+                <input id="cityInput" type="text" placeholder="Search a city…" autocomplete="off">
+                <div class="suggestions" id="suggestions"></div>
+            </div>
+            <button class="icon-btn" id="locBtn" title="Use my location" aria-label="Use my location">📍</button>
+        </div>
+
+        <div class="card" id="card">
+            <div class="state-msg" id="loading">
+                <div class="spinner"></div>
+                Finding the sky above you…
+            </div>
+        </div>
+
+        <footer>Data from Open‑Meteo · updates live as you search</footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
