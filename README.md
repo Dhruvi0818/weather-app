@@ -143,8 +143,8 @@ It motivates me to build more awesome projects!
 
 ---
 
-Last Updated: July 2026
-
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+Last Updated: July 2026
