@@ -4,6 +4,13 @@ A modern, responsive, and interactive weather application built using **HTML, CS
 
 ---
 
+## 🚀 Live Demo
+
+👉 Click here to explore the live project:
+🌐 **Website:** https://dhruvi0818.github.io/weather-app/
+
+---
+
 ## 📖 Overview
 
 Skyline Weather App allows users to check live weather information for any city or use their current location to get instant weather updates. The application features an elegant glassmorphism design, smooth animations, and weather-based visual effects to provide an engaging user experience.
@@ -130,7 +137,7 @@ No installation or dependencies are required.
 
 💻 Frontend Developer
 
-🔗 GitHub: https://github.com/Dhruvi0818
+🔗 **GitHub:** https://github.com/Dhruvi0818
 
 ---
 
@@ -146,5 +153,3 @@ It motivates me to build more awesome projects!
 ## 📄 License
 
 This project is licensed under the MIT License.
-
-Last Updated: July 2026
