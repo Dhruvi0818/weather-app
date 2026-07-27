@@ -7,6 +7,7 @@ A modern, responsive, and interactive weather application built using **HTML, CS
 ## 🚀 Live Demo
 
 👉 Click here to explore the live project:
+
 🌐 **Website:** https://dhruvi0818.github.io/weather-app/
 
 ---
