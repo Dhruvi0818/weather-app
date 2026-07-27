@@ -139,6 +139,8 @@ No installation or dependencies are required.
 
 🔗 **GitHub:** https://github.com/Dhruvi0818
 
+🔗 **LinkedIn**: https://www.linkedin.com/in/dhruvirana0818/
+
 ---
 
 ## ⭐ Show Your Support
